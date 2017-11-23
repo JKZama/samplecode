@@ -1,0 +1,3 @@
+These programs are written for an 8051 MCU. These programs will work on most 8051 based MCUs.
+The .a51 files are written in standard 8051 assembly language and the .c file was written
+  with the intention of being compiled for 8051 in Keil or a similar IDE.
